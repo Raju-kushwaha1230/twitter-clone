@@ -1,0 +1,30 @@
+# .gitignore for Tailwind CSS project
+
+# Dependencies
+node_modules/
+
+# Generated CSS
+/output.css
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Log files
+*.log
+npm-debug.log*
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Optional: If you're using build tools
+dist/
+public/build/
