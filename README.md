@@ -2,7 +2,7 @@
 
 A modern Twitter/X clone interface featuring a responsive layout with fixed navigation elements, dynamic posts, and interactive hover effects. Built with HTML and Tailwind CSS.
 
-![Demo Screenshot](./docs/images/twitter-clone-screenshot.png) *Replace with your actual screenshot*
+![Demo Screenshot](./docs/images/twitter-clone-screenshot.png.png) 
 
 
 ## Installation Instructions for Users
