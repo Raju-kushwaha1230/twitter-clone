@@ -103,11 +103,7 @@ This README includes:
 6. Contribution guidelines
 7. Licensing information
 
-To complete this README:
-1. Add actual screenshots to an `/images` directory
-2. Replace `path-to-your-screenshot.png` with your actual image path
-3. Update the repository URL in the installation section
-4. Add any additional features specific to your implementation
+
 
 Would you like me to modify any specific section or add more details about particular components?
 ## Author  Raju Kushwaha
